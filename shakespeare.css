@@ -1,35 +1,35 @@
 .speech {
     font-family: "Times New Roman", serif;
-    font-size: 16px;
+    font-size: 14px;
     color: black;
 }
 
 .stage-direction {
     font-family: "Courier New", monospace;
-    font-size: 14px;
+    font-size: 12px;
     color: black;
     background-color: #ececec;
 }
 
 .stage-direction:hover {
     background-color: #afb6e3;
-    color: #594694;
+    color: #940a23;
 }
 
 .name {
     font-family: "Georgia", serif;
-    font-size: 18px;
+    font-size: 16px;
     color: black;
 }
 
 .hamlet {
-    color: rgb(30, 11, 108);
+    color: rgb(46, 15, 169);
 }
 
 .queen-gertrude {
-    color: rgb(99, 17, 81);
+    color: rgb(155, 17, 125);
 }
 
 .lord-polonious {
-    color: rgb(87, 103, 2);
+    color: rgb(111, 132, 6);
 }
